@@ -1,10 +1,11 @@
 伯乐在线aiohttp的爬虫
 ----
 使用aiohttp模块的一个爬虫练手项目。
-运行需要：
-1.  python3.5以上
-2.  lxml
-3.  bs4
+<br>
+运行需要：<br>
+    1.  python3.5以上
+    2.  lxml
+    3.  bs4
 ```
 async, await 相当于 python3.4中的 @asyncio.coroutine, yield from
 ```
