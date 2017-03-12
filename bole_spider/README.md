@@ -3,9 +3,11 @@
 使用aiohttp模块的一个爬虫练手项目。
 <br>
 运行需要：<br>
-    1.  python3.5以上
-    2.  lxml
-    3.  bs4
+	<ul>
+		<li>1.  python3.5以上</li>
+		<li>2.  lxml</li>
+		<li>3.  bs4</li>
+	</ul>
 ```
 async, await 相当于 python3.4中的 @asyncio.coroutine, yield from
 ```
