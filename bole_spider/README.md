@@ -4,9 +4,9 @@
 <br>
 运行需要：<br>
 	<ul>
-		<li>1.  python3.5以上</li>
-		<li>2.  lxml</li>
-		<li>3.  bs4</li>
+		<li>python3.5以上;</li>
+		<li>lxml;</li>
+		<li>bs4;</li>
 	</ul>
 ```
 async, await 相当于 python3.4中的 @asyncio.coroutine, yield from
