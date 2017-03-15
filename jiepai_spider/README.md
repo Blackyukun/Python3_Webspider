@@ -2,4 +2,4 @@
 ----
 <br>
 <br>
-<a href="https://www.toutiao.com/search/?keyword=%E8%A1%97%E6%8B%8D">头条街拍</a>
+<a href="https://www.toutiao.com/search/?keyword=%E8%A1%97%E6%8B%8D" target="_blank">头条街拍</a>
